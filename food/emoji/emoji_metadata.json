@@ -1,0 +1,382 @@
+[
+  {
+    "emoji": "🍎",
+    "name": "apple",
+    "kr_name": "사과",
+    "category": "fruit",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/apple.png"
+  },
+  {
+    "emoji": "🍌",
+    "name": "banana",
+    "kr_name": "바나나",
+    "category": "fruit",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/banana.png"
+  },
+  {
+    "emoji": "🍇",
+    "name": "grape",
+    "kr_name": "포도",
+    "category": "fruit",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/grape.png"
+  },
+  {
+    "emoji": "🍓",
+    "name": "strawberry",
+    "kr_name": "딸기",
+    "category": "fruit",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/strawberry.png"
+  },
+  {
+    "emoji": "🍒",
+    "name": "cherry",
+    "kr_name": "체리",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/cherry.png"
+  },
+  {
+    "emoji": "🍑",
+    "name": "peach",
+    "kr_name": "복숭아",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/peach.png"
+  },
+  {
+    "emoji": "🍋",
+    "name": "lemon",
+    "kr_name": "레몬",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/lemon.png"
+  },
+  {
+    "emoji": "🍊",
+    "name": "orange",
+    "kr_name": "오렌지",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/orange.png"
+  },
+  {
+    "emoji": "🍉",
+    "name": "watermelon",
+    "kr_name": "수박",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/watermelon.png"
+  },
+  {
+    "emoji": "🍍",
+    "name": "pineapple",
+    "kr_name": "파인애플",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/pineapple.png"
+  },
+  {
+    "emoji": "🍈",
+    "name": "melon",
+    "kr_name": "멜론",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/melon.png"
+  },
+  {
+    "emoji": "🥝",
+    "name": "kiwi",
+    "kr_name": "키위",
+    "category": "fruit",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/kiwi.png"
+  },
+  {
+    "emoji": "🍅",
+    "name": "tomato",
+    "kr_name": "토마토",
+    "category": "vegetable",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/tomato.png"
+  },
+  {
+    "emoji": "🍆",
+    "name": "eggplant",
+    "kr_name": "가지",
+    "category": "vegetable",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/eggplant.png"
+  },
+  {
+    "emoji": "🌽",
+    "name": "corn",
+    "kr_name": "옥수수",
+    "category": "vegetable",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/corn.png"
+  },
+  {
+    "emoji": "🥕",
+    "name": "carrot",
+    "kr_name": "당근",
+    "category": "vegetable",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/carrot.png"
+  },
+  {
+    "emoji": "🥔",
+    "name": "potato",
+    "kr_name": "감자",
+    "category": "vegetable",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/potato.png"
+  },
+  {
+    "emoji": "🥖",
+    "name": "baguette",
+    "kr_name": "바게트",
+    "category": "bakery",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/baguette.png"
+  },
+  {
+    "emoji": "🥞",
+    "name": "pancake",
+    "kr_name": "팬케이크",
+    "category": "bakery",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/pancake.png"
+  },
+  {
+    "emoji": "🍳",
+    "name": "fried_egg",
+    "kr_name": "계란후라이",
+    "category": "dish",
+    "stages": [
+      3
+    ],
+    "file": "./food/emoji/fried_egg.png"
+  },
+  {
+    "emoji": "🍕",
+    "name": "pizza",
+    "kr_name": "피자",
+    "category": "fastfood",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/pizza.png"
+  },
+  {
+    "emoji": "🍟",
+    "name": "french_fries",
+    "kr_name": "감자튀김",
+    "category": "fastfood",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/french_fries.png"
+  },
+  {
+    "emoji": "🍔",
+    "name": "hamburger",
+    "kr_name": "햄버거",
+    "category": "fastfood",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/hamburger.png"
+  },
+  {
+    "emoji": "🌭",
+    "name": "hotdog",
+    "kr_name": "핫도그",
+    "category": "fastfood",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/hotdog.png"
+  },
+  {
+    "emoji": "🍣",
+    "name": "sushi",
+    "kr_name": "초밥",
+    "category": "dish",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/sushi.png"
+  },
+  {
+    "emoji": "🍤",
+    "name": "fried_shrimp",
+    "kr_name": "새우튀김",
+    "category": "dish",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/fried_shrimp.png"
+  },
+  {
+    "emoji": "🍙",
+    "name": "rice_ball",
+    "kr_name": "삼각김밥",
+    "category": "dish",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/rice_ball.png"
+  },
+  {
+    "emoji": "🍛",
+    "name": "curry",
+    "kr_name": "카레",
+    "category": "dish",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/curry.png"
+  },
+  {
+    "emoji": "🍱",
+    "name": "bento",
+    "kr_name": "도시락",
+    "category": "dish",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/bento.png"
+  },
+  {
+    "emoji": "🍜",
+    "name": "ramen",
+    "kr_name": "라멘",
+    "category": "dish",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/ramen.png"
+  },
+  {
+    "emoji": "🍰",
+    "name": "cake",
+    "kr_name": "케이크",
+    "category": "dessert",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/cake.png"
+  },
+  {
+    "emoji": "🍦",
+    "name": "ice_cream",
+    "kr_name": "아이스크림",
+    "category": "dessert",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/ice_cream.png"
+  },
+  {
+    "emoji": "🍩",
+    "name": "donut",
+    "kr_name": "도넛",
+    "category": "dessert",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/donut.png"
+  },
+  {
+    "emoji": "🍪",
+    "name": "cookie",
+    "kr_name": "쿠키",
+    "category": "dessert",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/cookie.png"
+  },
+  {
+    "emoji": "🍫",
+    "name": "chocolate",
+    "kr_name": "초콜릿",
+    "category": "dessert",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/chocolate.png"
+  },
+  {
+    "emoji": "🍿",
+    "name": "popcorn",
+    "kr_name": "팝콘",
+    "category": "snack",
+    "stages": [
+      3,
+      4
+    ],
+    "file": "./food/emoji/popcorn.png"
+  }
+]
